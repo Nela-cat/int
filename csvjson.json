@@ -404,5 +404,35 @@ System: .56},
   {"country": "Peru", "year": 2023, "educationIndex": 0.13},
   {"country": "Peru", "year": 2023, "educationIndex": 0.12},
   {"country": "Peru", "year": 2023, "educationIndex": 0.11},
-  {"country": "Peru", "year": 2023, "educationIndex": 0.10}
+  {"country": "Peru", "year": 2023, "educationIndex": 0.10},
+  {
+    "country": "Africa Eastern and Southern",
+    "year": 2021,
+    "educationIndex": 0.58
+  },
+  {
+    "country": "Africa Eastern and Southern",
+    "year": 2022,
+    "educationIndex": 0.61
+  },
+  {
+    "country": "Africa Western and Central",
+    "year": 2021,
+    "educationIndex": 0.50
+  },
+  {
+    "country": "Africa Western and Central",
+    "year": 2022,
+    "educationIndex": 0.52
+  },
+  {
+    "country": "Arab World",
+    "year": 2021,
+    "educationIndex": 0.66
+  },
+  {
+    "country": "Arab World",
+    "year": 2022,
+    "educationIndex": 0.68
+  }
 ]
